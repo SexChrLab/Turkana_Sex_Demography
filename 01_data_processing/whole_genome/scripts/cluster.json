@@ -1,0 +1,72 @@
+{
+	"__default__" :
+	{
+		"n": 2,
+		"t": 96
+	},
+
+	"map_to_sex_specific_refs_males" :
+	{
+		"n": 4,
+		"t": 30
+	},
+
+	"map_to_sex_specific_refs_females" :
+	{
+		"n": 4,
+		"t": 30
+	},
+
+	"index_bam_males" :
+	{
+		"n": 2,
+		"t":10
+	},
+
+	"index_bam_females" :
+	{
+		"n": 2,
+		"t":10
+	},
+
+	"merge_bams_males" :
+	{
+		"n": 4,
+		"t":10
+	},
+
+	"merge_bams_females" :
+	{
+		"n": 4,
+		"t":10
+	},
+
+	"bam_stats" :
+	{
+		"n": 2,
+		"t": 20
+	},
+
+	"picard_mkdups" :
+	{
+		"n": 4,
+		"t": 10
+	},
+
+	"index_mkdup_bam" :
+	{
+		"n": 2,
+		"t": 10
+	},
+
+	"mkdup_bam_stats" :
+	{
+		"n": 2,
+		"t": 20
+	},
+
+	"gatk_gvcf" :
+	{
+		"n": 4
+	}
+}

@@ -1,0 +1,69 @@
+{
+	"__default__" :
+	{
+		"n": 2,
+		"t": 96
+	},
+
+	"map_to_sex_specific_refs_males" :
+	{
+		"n": 4
+	},
+
+	"map_to_sex_specific_refs_females" :
+	{
+		"n": 4
+	},
+
+	"index_bam_males" :
+	{
+		"n": 2,
+		"t":10
+	},
+
+	"index_bam_females" :
+	{
+		"n": 2,
+		"t":10
+	},
+
+	"picard_mkdups" : {
+		"n": 4,
+		"t":15
+	},
+
+	"index_mkdup_bam" :
+	{
+		"n": 2,
+		"t":10
+	},
+
+	"mkdup_bam_stats" :
+	{
+		"n": 2,
+		"t":10
+	},
+
+	"gatk_gvcf" : {
+		"n": 4,
+		"t": 96
+	},
+
+	"gatk_joint_genotype" :
+	{
+		"n": 4,
+		"t": 96
+	},
+
+	"select_monomorphic_sites":
+	{
+		"n": 3,
+		"t": 48
+	},
+
+	"select_SNPs":
+	{
+		"n": 3,
+		"t": 48
+	}
+}
