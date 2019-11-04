@@ -1,0 +1,36 @@
+	{
+    "sample_names": [
+		"A2", "A3", "A5", "A7", "A8", "A9", "A10", "A11", "A13", "A16",
+		"A17", "A18", "A21", "A22", "A23", "A24", "A25", "A27", "A29",
+		"A30", "A31", "A32", "A34", "A36", "A37", "A38", "A39", "A40",
+		"A43", "A45", "A46", "A47", "A48", "A49", "A50", "A51", "A52",
+		"A53", "A55", "A56", "A57", "A58", "A59", "A60", "A61", "A62",
+		"A63", "A64", "A65", "A67", "A68", "A69", "A70", "A71", "A72",
+		"A73", "A74", "A75", "A76", "A77", "A78", "A79", "A80", "A81",
+		"A82", "A83", "A85", "A86", "A87", "A88", "A89", "A90", "A91",
+		"A92", "A93", "A94", "A95", "A96", "A97", "A98", "A99", "A100"],
+
+	"males": [
+		"A10", "A100", "A18", "A21", "A22", "A23", "A24", "A25", "A32",
+		"A34", "A36", "A37", "A38", "A39", "A40", "A48", "A51", "A52",
+		"A57", "A59", "A60", "A61", "A62", "A63", "A67", "A69", "A72",
+		"A74", "A79", "A80", "A81", "A91", "A93", "A95", "A98", "A68"],
+
+	"females": [
+		"A11", "A13", "A16", "A17", "A2", "A27", "A29", "A3", "A30",
+		"A31", "A43", "A45", "A46", "A47", "A49", "A5", "A50", "A53",
+		"A55", "A56", "A58", "A64", "A65", "A7", "A70", "A71", "A73",
+		"A75", "A76", "A77", "A78", "A8", "A82", "A83", "A85", "A86",
+		"A87", "A88", "A89", "A9", "A90", "A92", "A94", "A96", "A97",
+		"A99"],
+
+    "autosomes": ["chr1", "chr2", "chr3", "chr4", "chr5", "chr6", "chr7", "chr8", "chr9", "chr10", "chr11", "chr12", "chr13", "chr14", "chr15", "chr16", "chr17", "chr18", "chr19", "chr20", "chr21", "chr22"],
+    "sex_chr_diploid": ["chrX"],
+    "sex_chr_haploid": ["chrX", "chrY"],
+
+    "bams_directory": "/data/storage/SAYRES/Northwest_Kenya/data/whole_genome/bams/",
+
+		"Ref_GRCh38_Y_HardMasked": "/mnt/storage/SAYRES/XY_Trim_Ref/references/gencode.GRCh38.p7_Ymasked/GRCh38_Ymasked_reference.fa",
+		"Ref_GRCh38_Y_PARsMasked": "/mnt/storage/SAYRES/XY_Trim_Ref/references/gencode.GRCh38.p7_minusYPARs/GRCh38_minusYPARs_reference.fa"
+
+}
