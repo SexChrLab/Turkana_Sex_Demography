@@ -1,0 +1,8 @@
+{
+  "Ref_GRCh38_Y_HardMasked": "/data/storage/SAYRES/XY_Trim_Ref/references/gencode.GRCh38.p7_Ymasked/GRCh38_Ymasked_reference.fa",
+	"Ref_GRCh38_Y_PARsMasked": "/mnt/storage/SAYRES/XY_Trim_Ref/references/gencode.GRCh38.p7_minusYPARs/GRCh38_minusYPARs_reference.fa",
+  "gatk3_path" : "/home/tphung3/softwares/GenomeAnalysisTK-3.8-0-ge9d806836/GenomeAnalysisTK.jar",
+  "custom_filter_vcf_directory": "/agavescratch/tphung3/Turkana_Demography/03_data_cleaning/hard_filter_variants/custom_filter_vcf/",
+  "puatively_neutral_directory": "/agavescratch/tphung3/Turkana_Demography/04_find_neutral_regions/results/",
+  "autosomes": ["chr1", "chr2", "chr3", "chr4", "chr5", "chr6", "chr7", "chr8", "chr9", "chr10", "chr11", "chr12", "chr13", "chr14", "chr15", "chr16", "chr17", "chr18", "chr19", "chr20", "chr21", "chr22"]
+}
