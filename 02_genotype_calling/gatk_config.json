@@ -30,7 +30,7 @@
 
     "bams_directory": "/data/storage/SAYRES/Northwest_Kenya/data/whole_genome/bams/",
 
-		"Ref_GRCh38_Y_HardMasked": "/mnt/storage/SAYRES/XY_Trim_Ref/references/gencode.GRCh38.p7_Ymasked/GRCh38_Ymasked_reference.fa",
+		"Ref_GRCh38_Y_HardMasked": "/data/storage/SAYRES/XY_Trim_Ref/references/gencode.GRCh38.p7_Ymasked/GRCh38_Ymasked_reference.fa",
 		"Ref_GRCh38_Y_PARsMasked": "/mnt/storage/SAYRES/XY_Trim_Ref/references/gencode.GRCh38.p7_minusYPARs/GRCh38_minusYPARs_reference.fa"
-
+		
 }
